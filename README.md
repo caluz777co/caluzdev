@@ -1,2 +1,2 @@
 # caluzdev
-portfolio of personal projects
+personal project portfolio
